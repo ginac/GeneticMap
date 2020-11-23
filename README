@@ -1,0 +1,6 @@
+extract.pl # this file creates a shell script of a bunch of seqret commands
+seqret.sh  # this is a shell script of a bunch of seqret commands automatically generated 
+           # it results in a bunch of fasta files 
+blast.sh   # this file blasts all of the fasta files in a directory and returns blast output
+ProcessBlast.pl # this file processes the blast and combines the new location with mathieu's file F7_V3.allmarkers.map.csv
+162seqs    # this directory  has all the blast and fasta files
